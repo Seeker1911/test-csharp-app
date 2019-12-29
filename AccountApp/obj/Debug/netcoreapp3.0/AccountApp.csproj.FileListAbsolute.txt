@@ -1,0 +1,11 @@
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/obj/Debug/netcoreapp3.0/AccountApp.csprojAssemblyReference.cache
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/obj/Debug/netcoreapp3.0/AccountApp.AssemblyInfoInputs.cache
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/obj/Debug/netcoreapp3.0/AccountApp.AssemblyInfo.cs
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/bin/Debug/netcoreapp3.0/AccountApp
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/bin/Debug/netcoreapp3.0/AccountApp.deps.json
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/bin/Debug/netcoreapp3.0/AccountApp.runtimeconfig.json
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/bin/Debug/netcoreapp3.0/AccountApp.runtimeconfig.dev.json
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/bin/Debug/netcoreapp3.0/AccountApp.dll
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/bin/Debug/netcoreapp3.0/AccountApp.pdb
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/obj/Debug/netcoreapp3.0/AccountApp.dll
+/Users/meadm1/RiderProjects/ConsoleApp1/AccountApp/obj/Debug/netcoreapp3.0/AccountApp.pdb
